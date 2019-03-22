@@ -22,11 +22,18 @@ class B {
 
     {
         System.out.println("InstanceInitialization block invokered");
+        System.out.println(B.x);
         B b = new B();
     }
+    
+    public static int x = getX();
     
     public B() {
         System.out.println("new Instance of B created");
     }
     
+    public static int getX() {
+        System.out.println("static Data initialization");
+        return 10;
+    }
 }
