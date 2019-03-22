@@ -22,8 +22,10 @@ class A {
     
     static {
         System.out.println("block invokered");
-        A a = new A();
+        a = new A();
     }
+    
+    public static A a = new A();
     
     public static int x = getX();
 
