@@ -42,10 +42,19 @@ public class AlterableParams {
     //
      @Test
      public void hello() {
-         show(new Integer(1),new String("123"));
+//         show();
      }
      
-     public void show(Object... args) {
+    /**
+     *
+     * @param args
+     * @param s
+     */
+    public void show(int... args) {
          System.out.println(args[0]+"++++"+args[1]);
      }
+    
+    public void show(String... args){
+        System.out.println("2"+args[0]+"++++"+args[1]);
+    }
 }
