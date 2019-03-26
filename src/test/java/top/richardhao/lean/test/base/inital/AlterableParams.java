@@ -40,6 +40,12 @@ public class AlterableParams {
     // TODO add test methods here.
     // The methods must be annotated with annotation @Test. For example:
     //
-    // @Test
-    // public void hello() {}
+     @Test
+     public void hello() {
+         show(new Integer(1),new String("123"));
+     }
+     
+     public void show(Object... args) {
+         System.out.println(args[0]+"++++"+args[1]);
+     }
 }
