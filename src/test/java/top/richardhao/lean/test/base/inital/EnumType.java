@@ -43,7 +43,7 @@ public class EnumType {
     //
      @Test
      public void enumTest() {
-         EnumTp enumTp = EnumTp.TYPE_TWO;
+         EnumTp enumTp = EnumTp.TYPE_ONE;
          System.out.println(Arrays.toString(EnumTp.values()));
      }
 }
