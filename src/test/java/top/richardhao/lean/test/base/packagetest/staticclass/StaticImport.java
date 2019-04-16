@@ -11,6 +11,8 @@ package top.richardhao.lean.test.base.packagetest.staticclass;
  * @author RichardHaoFang
  */
 public interface StaticImport {
+    //    java 1.4版本之后就不再支持导入默认包中的类和接口，但是可以通过反射的方
+    //    式实现默认包中类的创建
 //    private SS ss = new SS();
     public static int getx(){return 0;};
     public static int getx(int m){return 0;};
