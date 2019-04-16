@@ -11,9 +11,8 @@ package top.richardhao.lean.test.base.packagetest.staticclass;
  * @author RichardHaoFang
  */
 public interface StaticImport {
-
+//    private SS ss = new SS();
     public static int getx(){return 0;};
     public static int getx(int m){return 0;};
     public static int getx(int m,int n){return 0;};
-    
 }
