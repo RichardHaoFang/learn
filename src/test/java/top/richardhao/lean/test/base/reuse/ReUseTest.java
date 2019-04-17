@@ -42,8 +42,8 @@ public class ReUseTest {
     //
      @Test
      public void inheritTest() {
-         System.out.println(new A1().getX());
-         System.out.println(new A1().getY());
-         System.out.println(((A) new A1()).getY());
+//         System.out.println(new A1().getX());
+//         System.out.println(new A1().getY());
+//         System.out.println(((A) new A1()).getY());
      }
 }

@@ -10,13 +10,15 @@ package top.richardhao.lean.test.base.reuse;
  *
  * @author RichardHaoFang
  */
-public class A {
+public class Root {
 
-    public int getX() {
-        return 1;
+    Component1 component1 = new Component1();
+    
+    public Root() {
+        System.out.println("Root");
     }
     
-    public int getY() {
-        return 2;
+    public void show(){
+        System.out.println("root");
     }
 }

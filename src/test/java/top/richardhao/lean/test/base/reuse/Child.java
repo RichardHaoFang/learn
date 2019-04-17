@@ -10,13 +10,17 @@ package top.richardhao.lean.test.base.reuse;
  *
  * @author RichardHaoFang
  */
-public class A1 extends A{
+public class Child extends Root{
 
-    @Override
-    public int getY() {
-        return 3;
+    public Component2 component1 = new Component2();
+    public Child() {
+        System.out.println("Child");
     }
 
+    @Override
+    public void show() {
+        System.out.println("child");
+    }
     
     
 }
