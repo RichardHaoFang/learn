@@ -15,6 +15,11 @@ public class Inherit {
     public static void main(String args[]) {
         C c = new C();
         c.show();
+        c.showA();
+        ((B)c).show();
+        ((B)c).showB();
+        final int[] a = new int[10];
+        System.out.println(a);
     }
 }
 
@@ -23,9 +28,18 @@ class C extends B{
         super.show();
         System.out.println("I am C.");
     }
+    
+    public static void showB(){
+        System.out.println("This is C.");
+    }
 }
 
 class B extends A{
+    
+    public static void showB(){
+        System.out.println("This is B.");
+    }
+    
     public void show(){
         System.out.println("I am B");
     }
@@ -35,6 +49,10 @@ class A{
 
     public void show(){
         System.out.println("I am A.");
+    }
+    
+    public void showA(){
+        System.out.println("This is A.");
     }
 }
 
