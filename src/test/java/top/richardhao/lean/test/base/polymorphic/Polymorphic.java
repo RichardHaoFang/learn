@@ -19,9 +19,9 @@ public class Polymorphic {
 
 class A{
 
-//    public A() {
-//        System.out.println("A");
-//    }
+    public A() {
+        System.out.println("A");
+    }
     
     public A(int s) {
         System.out.println("111");
