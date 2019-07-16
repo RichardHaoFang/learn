@@ -1,0 +1,15 @@
+大计划：
+8月1日离职最迟8月15日，9月1日-9月15日去上海
+小目标：
+7月16日-7月21日复习完基本技能，
+7月22-7月28日定向投简历，定向学习和复习
+每天尽量7点前开始学习
+jvm，java高级内容，空余时间学习和复习，重点复习多线程，java虚拟机
+7月16日：mysql，linux复习2小时，springboot，springcloud学习2小时，空余时间jvm，java多线程
+7月17日：mysql，linux复习2小时，springboot，springcloud学习2小时，空余时间jvm，java多线程
+7月18日：mysql，linux复习2小时，springboot，springcloud学习2小时，空余时间jvm，java多线程
+7月19日：mysql，linux复习2小时，springboot，springcloud学习2小时，空余时间jvm，java多线程
+周末
+7月20日：springboot，springcloud学习2小时，springmcv复习，mybatis复习
+7月21日：springboot，springcloud学习2小时，hadoop复习
+
