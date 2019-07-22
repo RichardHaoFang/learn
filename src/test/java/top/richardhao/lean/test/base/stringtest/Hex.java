@@ -15,9 +15,9 @@ import java.io.File;
 public class Hex {
     
     public static void main(String args[]) {
-        if(args.length == 0)
+//        if(args.length == 0)
 //            System.out.println(format(BinaryFile.read("Hex.class")));
-        else
+//        else
 //            System.out.println(format(BinaryFile.read(new File(args[0]))));
     }
 
