@@ -6,8 +6,7 @@
 每天尽量7点前开始学习
 jvm，java高级内容，空余时间学习和复习，重点复习多线程，java虚拟机
 7月21日 springboot
->7月22日：mysql，linux复习2小时，springboot，springcloud学习2小时，空余时间jvm，java多线程,正则表达式
-        springmvc mybatis 复习，修改简历，投简历
+>7月22日：mysql复习，spring in Action阅读两章，spring面试考点学习（spring微服务），正则表达式。
 7月23日：mysql，linux复习2小时，springboot，springcloud学习2小时，空余时间jvm，java多线程,正则表达式复习 修改简历，投简历
 7月24日：mysql，linux复习2小时，springboot，springcloud学习2小时，空余时间jvm，java多线程 修改简历，投简历
 7月25日：springboot，springcloud学习2小时，springmcv复习，mybatis复习 修改简历，投简历
