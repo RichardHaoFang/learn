@@ -8,8 +8,8 @@ spring in action（19章）每天两章7月30日之前学完
 需复习内容：jvm，mysql，linux，mybatis，多线程
 可进一步复习内容：hadoop
 7月22日:学习两章，正则表达式, mysql环境搭建
->7月23日：spring in action（2，3）学习两章，正则表达式, mysql，linux复习
-7月24日：spring in action（）学习两章，正则表达式, mysql，linux复习
+>7月23日：spring in action（2，3）学习两章，正则表达式
+7月24日：spring in action（）学习两章，复习正则表达式，学习java正则表达式, mysql，linux复习
 7月25日：spring in action（）学习两章， mysql，linux复习
 7月26日：spring in action（）学习两章， mysql，linux复习
 周末
