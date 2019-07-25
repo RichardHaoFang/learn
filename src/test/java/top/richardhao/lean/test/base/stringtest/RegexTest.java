@@ -6,6 +6,9 @@
 package top.richardhao.lean.test.base.stringtest;
 
 import java.util.Scanner;
+import java.util.regex.Pattern;
+import javax.swing.JFrame;
+import javax.swing.JPanel;
 import javax.swing.SwingUtilities;
 import org.apache.commons.text.StringEscapeUtils;
 
@@ -16,12 +19,17 @@ import org.apache.commons.text.StringEscapeUtils;
 public class RegexTest {
 
     public static void main(String args[]) {
-        SwingUtilities.invokeLater(new Runnable(){
-            @Override
-            public void run() {
-                throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-            }
-        
-        });
+        Scanner in = new Scanner(System.in);
+//        System.out.println("\u263A");
+//        System.out.println(StringEscapeUtils.escapeJava("\1"));
+//        System.out.println(StringEscapeUtils.unescapeJava("\1"));
+//        System.out.println(Pattern.matches("1*", "1111"));
+        while(in.hasNextLine()) {
+            String source = in.nextLine();
+            String regex = in.nextLine();
+            System.out.println("regexEscape:"+StringEscapeUtils.escapeJava(regex));
+            System.out.println("reslut:"+Pattern.matches(regex, source));
+            System.out.println("________________________________________________");
+        }
     }
 }
