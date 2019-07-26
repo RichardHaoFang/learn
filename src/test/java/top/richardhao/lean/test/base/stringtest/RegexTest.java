@@ -27,6 +27,7 @@ public class RegexTest {
         while(in.hasNextLine()) {
             String source = in.nextLine();
             String regex = in.nextLine();
+            Pattern pattern = Pattern.compile(regex);
             System.out.println("regexEscape:"+StringEscapeUtils.escapeJava(regex));
             System.out.println("reslut:"+Pattern.matches(regex, source));
             System.out.println("________________________________________________");
