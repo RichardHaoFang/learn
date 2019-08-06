@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>正则表达式测试</title>
+	</head>
+	<body>
+		<span>待匹配字符串：</span><br/>
+		<textarea id="input-str"></textarea><br/>
+		<span>正则表达式&nbsp&nbsp&nbsp：<br/>
+		</span><textarea id="input-regex"></textarea><br/>
+		<input id="global" type="checkbox">全局匹配(g)</input><br>
+		<input id="mut" type="checkbox">多行匹配(m)</input><br>
+		<input id="ignor" type="checkbox">忽略大小写(i)</input><br>
+		<button id="do" onclick = "doRegex()">执行</button><br>		
+		<div>
+		<h5>正则表达式：</h5>
+		<span id="regex-value"></span>
+		<h5>结果：</h5>
+		<textarea id="result"></textarea>
+		</div>
+		<script>
+			var str ="\\";
+			console.info(str);
+		</script>
+	</body>
+</html>
