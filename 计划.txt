@@ -1,26 +1,22 @@
 大计划：
-8月1日离职最迟8月15日，9月1日-9月15日去上海
+10月7日后投简历
+11月1日前开始新的工作
 小目标：
-7月22日-7月28日复习完基本技能，定向投简历
-7月28日-8月03日定向投简历,定向学习和复习
-每天尽量早上6点起，晚上10点睡
-spring in action（19章）每天两章7月30日之前学完
+每天尽量早上8点起，晚上10点睡
+9月21日-9月27日复习完基本技能，定向投简历
+9月28日-10月7日定向定向学习和复习
+10月7日投简历
+spring in action（19章）每天两章9月20日之前学完
 需复习内容：jvm，mysql，linux，mybatis，多线程
 可进一步复习内容：hadoop
-7月22日:学习两章，正则表达式, mysql环境搭建
-7月23日：正则表达式
->7月24日：spring in action（2，3）学习两章，复习正则表达式，学习java正则表达式, mysql，linux复习
-7月25日：spring in action（）学习两章， mysql，linux复习
-7月26日：spring in action（）学习两章， mysql，linux复习
-周末
-7月27日：spring in action（）学习两章，mybatis复习
-7月28日：spring in action（完成）学习两章，mybatis复习
+>10月24日：spring in action（3，4）mysql，linux复习
+10月25日：spring in action（）学习两章， mysql，linux复习
+10月26日：spring in action（）学习两章， mysql，linux复习
+10月27日：spring in action（）学习两章，mybatis复习
+10月28日：spring in action（完成）学习两章，mybatis复习
 
-7月29日：spring收尾，多线程
-7月30日：spring收尾，多线程
-7月31日：spring收尾，多线程
-8月01日：jvm
-8月02日：jvm
-周末
-8月03日：jvm
-8月04日：jvm
+10月29日：spring收尾，多线程
+10月30日：spring收尾，多线程
+10月31日：spring收尾，多线程
+11月01日：jvm
+11月02日：jvm
