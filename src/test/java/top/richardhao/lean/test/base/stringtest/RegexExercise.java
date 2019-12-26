@@ -15,7 +15,7 @@ public class RegexExercise {
         return text.matches("\\p{javaUpperCase}.*\\.");
     }
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         System.out.println(matches("This id conrrect."));
         System.out.println(matches("bad sentence 1."));
         System.out.println(matches("Bad sentence 2"));

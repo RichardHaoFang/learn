@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class BetterRead {
     public static BufferedReader input = new BufferedReader(new StringReader("Sir Robin of Camelot\n22 1.61803"));
-    public static void main(String args[]){
+    public static void main(String[] args){
         Scanner stdin = new Scanner(input);
         System.out.println("What is your name?");
         String name = stdin.nextLine();

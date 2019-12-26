@@ -17,7 +17,7 @@ public class FinalInit {
         System.out.println("private f()");
     }
     
-    public static void main(String args[]){
+    public static void main(String[] args){
         FinalInit b = new FinalInitChild();
         b.x = 1;
         System.out.println(b.x);

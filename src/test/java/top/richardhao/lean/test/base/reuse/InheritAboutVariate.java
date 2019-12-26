@@ -12,7 +12,7 @@ package top.richardhao.lean.test.base.reuse;
  */
 public class InheritAboutVariate {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Child child = new Child();
         System.out.println(child.component1);
         System.out.println(((Root) child).component1);

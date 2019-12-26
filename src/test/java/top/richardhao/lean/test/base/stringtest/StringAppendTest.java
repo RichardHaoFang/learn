@@ -12,7 +12,7 @@ package top.richardhao.lean.test.base.stringtest;
  */
 public class StringAppendTest {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         String  s = "123";
         s = "322" + s + "sdf" + "1q1";
         System.out.println(s);

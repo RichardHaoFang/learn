@@ -27,7 +27,7 @@ public class RegexGroupsTest {
             + "Beware the Jubjub bird, and shun\n"
             + "The frumious Bandersnatch.";
     
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Set<String> words = new HashSet<>();
         Matcher m =
                 Pattern.compile("\\b((?![A-Z])\\w+)\\b").matcher(POEM);

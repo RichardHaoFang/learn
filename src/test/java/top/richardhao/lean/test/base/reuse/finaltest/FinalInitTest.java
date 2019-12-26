@@ -14,7 +14,7 @@ import javax.swing.JFrame;
  */
 public class FinalInitTest {
     
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         FinalInitTestA test = new FinalInitTestA();
         System.out.println(test);
     }

@@ -16,7 +16,7 @@ public class TheReplacements {
     the special delimiters, then process the
     extracted blocks.!*/
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         String s = "/*! Here's a block of text to use as input to\n"+
     "the regular expression mather. Note  that we'll\n"+
     "first extract the block of text by looking for\n"+

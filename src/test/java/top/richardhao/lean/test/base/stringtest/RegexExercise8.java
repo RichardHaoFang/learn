@@ -22,7 +22,7 @@ public class RegexExercise8 {
         System.out.println(Arrays.toString(knights.split(regex)));
     }
     
-    public static void main(String args[]){
+    public static void main(String[] args){
         split("the|you");
     }
 }

@@ -63,5 +63,5 @@ class Outer {
 
 interface Inner {
     
-    public void test();
+    void test();
 }

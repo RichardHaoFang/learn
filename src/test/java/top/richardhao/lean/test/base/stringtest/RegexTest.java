@@ -18,7 +18,7 @@ import org.apache.commons.text.StringEscapeUtils;
  */
 public class RegexTest {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 //        System.out.println("\u263A");
 //        System.out.println(StringEscapeUtils.escapeJava("\1"));

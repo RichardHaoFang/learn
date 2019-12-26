@@ -9,14 +9,14 @@
 spring in action（19章）每天两章9月20日之前学完
 需复习内容：jvm，mysql，linux，mybatis，多线程
 可进一步复习内容：hadoop
->10月24日：spring in action（3，4）mysql，linux复习
-10月25日：spring in action（）学习两章， mysql，linux复习
-10月26日：spring in action（）学习两章， mysql，linux复习
-10月27日：spring in action（）学习两章，mybatis复习
-10月28日：spring in action（完成）学习两章，mybatis复习
+>11月21日：spring in action（3，4）mysql，linux复习
+(5)11月22日：spring in action（）学习两章， mysql，linux复习
+(6)11月23日：spring in action（）学习两章， mysql，linux复习
+(7)11月24日：spring in action（）学习两章，mybatis复习
+(1)11月25日：spring in action（完成）学习两章，mybatis复习
 
-10月29日：spring收尾，多线程
-10月30日：spring收尾，多线程
-10月31日：spring收尾，多线程
-11月01日：jvm
+(2)11月26日：spring收尾，多线程
+(3)11月27日：spring收尾，多线程
+11月28日：spring收尾，多线程
+11月29日：jvm
 11月02日：jvm

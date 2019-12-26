@@ -18,7 +18,7 @@ public class RegexTest9 {
             + "Cut down the mightiest tree in the forest... "
             + "with... a herring!A";
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         System.out.println(Pattern.compile("(?i)[aeiou]\\1"));
         System.out.println(Pattern.matches("(?i)[aeiou]\\1", "aa"));
         System.out.println(Pattern.matches("(?i)[aeiou]\\1", "ab"));

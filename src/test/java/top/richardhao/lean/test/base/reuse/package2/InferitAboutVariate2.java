@@ -16,7 +16,7 @@ import top.richardhao.lean.test.base.reuse.Root;
  */
 public class InferitAboutVariate2 {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         System.out.println("0000000000000000");
          Child child = new Child();
 //        System.out.println(child.component1);

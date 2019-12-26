@@ -71,7 +71,7 @@ public class TextFile extends ArrayList<String> {
        }
     }
 
-    public static void main(String args[]){
+    public static void main(String[] args){
        String file = read("TextFile.java");
        write("test.txt", file);
        TextFile text = new TextFile("test.txt");

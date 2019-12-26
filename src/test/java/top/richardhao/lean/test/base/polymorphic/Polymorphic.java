@@ -12,7 +12,7 @@ package top.richardhao.lean.test.base.polymorphic;
  */
 public class Polymorphic {
     
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         B b = new B(1);
     }
 }

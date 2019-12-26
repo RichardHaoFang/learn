@@ -13,7 +13,7 @@ import java.util.Formatter;
  * @author RichardHaoFang
  */
 public class StringFormatterSyntax {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Receipt receipt = new Receipt();
         receipt.printTitle();
         receipt.print("Jack's Magic Beans", 4, 12345678904.25);

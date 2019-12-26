@@ -50,5 +50,5 @@ public class EnumType {
 
 
 enum EnumTp{
-    TYPE_ONE,TYPE_TWO,TYPE_THREE;
+    TYPE_ONE,TYPE_TWO,TYPE_THREE
 }

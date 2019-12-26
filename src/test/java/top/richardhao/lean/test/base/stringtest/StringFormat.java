@@ -12,7 +12,7 @@ package top.richardhao.lean.test.base.stringtest;
  */
 public class StringFormat {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         System.out.format("Row1: [%d %f]\n", 10, 12.123);
         System.out.printf("Row1: [%d %f]\n", 10, 12.123);
     }

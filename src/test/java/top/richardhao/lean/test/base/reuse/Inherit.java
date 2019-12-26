@@ -12,12 +12,12 @@ package top.richardhao.lean.test.base.reuse;
  */
 public class Inherit {
     
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         C c = new C();
         c.show();
         c.showA();
         ((B)c).show();
-        ((B)c).showB();
+        B.showB();
         final int[] a = new int[10];
         System.out.println(a);
     }

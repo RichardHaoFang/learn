@@ -17,7 +17,7 @@ import javax.swing.JFrame;
  */
 public class FinalTest {
 
-    public static void main(String args[]) throws InterruptedException {
+    public static void main(String[] args) throws InterruptedException {
         FinalClass f = new FinalClass();
         for(int i = 0;i < 10; i++) {
             Integer[] obj = new Integer[1];

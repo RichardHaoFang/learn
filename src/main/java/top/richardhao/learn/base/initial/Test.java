@@ -15,7 +15,7 @@ import java.util.Map;
  */
 public class Test {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Map<A,String> test = new HashMap();
         A a1 = new A();
         A a2 = new A();

@@ -15,7 +15,7 @@ import java.util.regex.Pattern;
  */
 public class RegexExerceise11 {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Pattern p = Pattern.compile(
         "(?i)((^[aeiou])|(\\s+[aeiou]))\\w+?[aeiou]\\b");
         Matcher m = p.matcher("Arline ate eight apples and "

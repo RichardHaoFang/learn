@@ -5,7 +5,7 @@ import java.util.regex.Pattern;
 
 public class Resetting {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Matcher m = Pattern.compile("[frb][aiu][gx]")
                 .matcher("fix rug with bags");
         while(m.find()) {

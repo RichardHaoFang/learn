@@ -13,7 +13,7 @@ public class ThreatAnalyzer {
                     "58.27.82.161@02/12/2015\n" +
                     "58.27.82.161@02/12/2015\n" +
                     "[Next log section with different data format]";
-    public static void main(String args[]){
+    public static void main(String[] args){
         Scanner scanner = new Scanner(threatData);
         String pattern = "(\\d+[.]\\d+[.]\\d+[.]\\d+)@" +
                 "(\\d{2}/\\d{2}/\\d{4})";

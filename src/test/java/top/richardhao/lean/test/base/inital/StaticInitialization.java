@@ -11,7 +11,7 @@ package top.richardhao.lean.test.base.inital;
  */
 public class StaticInitialization {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         A a = new A();
         System.out.println("Main invokered");
     }

@@ -11,7 +11,7 @@ package top.richardhao.lean.test.base.inital.examination;
  * @author RichardHaoFang
  */
 public class plusplus {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         if(true||isTrue());
     }
     

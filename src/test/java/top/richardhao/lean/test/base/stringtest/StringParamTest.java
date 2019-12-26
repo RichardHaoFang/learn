@@ -12,7 +12,7 @@ package top.richardhao.lean.test.base.stringtest;
  */
 public class StringParamTest {
     
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         String s1 = "123";
         String s2 = s1;
         System.out.println(s1);

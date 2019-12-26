@@ -16,7 +16,7 @@ import top.richardhao.lean.test.base.packagetest.package2.*;
  */
 public class StaticClass {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Fa f = new Fa();
         M m = new M();
         Object obj = f.getB();

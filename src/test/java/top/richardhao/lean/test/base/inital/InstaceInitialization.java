@@ -14,7 +14,7 @@ import java.util.logging.Logger;
  */
 public class InstaceInitialization {
     
-    public static void main(String args[]) {
+    public static void main(String[] args) {
 //        System.out.println("Invoker main");
 //        B a = new B();
 //        System.out.println("main invokered");

@@ -22,7 +22,7 @@ public class JCommentExtractor {
             "\\*/         #Match END OF THE COMMENT\n" +
             "|//(.*?)$    #OR Match C++ style comments\n";
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         if(args.length < 1) {
             System.out.println("Usage : java JCommentExtractor file");
             System.exit(0);

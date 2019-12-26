@@ -15,7 +15,7 @@ import java.util.Formatter;
  */
 public class StringFormatterTest {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         PrintStream outAlias = System.err;
         Turtle tommy = new Turtle("Tommy", new Formatter(System.out));
         Turtle terry = new Turtle("Terry", new Formatter(outAlias));

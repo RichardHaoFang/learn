@@ -11,7 +11,7 @@ package top.richardhao.lean.test.base.reuse.overried;
  */
 public class OverriedTest {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         B b = new B();
 //        b.show();
 //        ((A) b).show();

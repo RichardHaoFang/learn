@@ -15,7 +15,7 @@ import java.util.regex.Pattern;
  */
 public class RegexExercise10 {
     
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         String source = "Java now has regular expression";
         String[] regEx = {"^Java", "\\Breg.*",
                 "n.w\\s+h(a|i)s", "s?", "s*", "s+", "s{4}", "s{1}.",

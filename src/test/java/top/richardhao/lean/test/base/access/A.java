@@ -12,7 +12,7 @@ package top.richardhao.lean.test.base.access;
  */
 public class A {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         M m = new M();
         System.out.println(m.getN().x);
         m.getN().x = 10;
